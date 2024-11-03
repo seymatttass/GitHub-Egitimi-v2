@@ -6,3 +6,4 @@ Test branch line added 2
 Test branch line added 3
 
 Conflict behaviour
+conflict branch v2 test
