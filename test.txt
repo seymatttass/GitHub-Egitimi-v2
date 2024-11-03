@@ -4,3 +4,5 @@ Test branch line added
 
 Test branch line added 2 
 Test branch line added 3
+
+conflict branch v2 test
